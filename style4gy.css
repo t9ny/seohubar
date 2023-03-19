@@ -1,0 +1,42 @@
+input{background:#f3f3ed; font:13px Tahoma !important; border-color:#a1a1a1 !important; border-width:1px !important; border-style:solid !important; background-color:#f6f6f6; border-radius:4px}
+input[type="submit"]{color:#fff; border:#29B3DA solid 1px; background-color:#29B3DA; box-shadow:0 1px rgba(255,255,255,0.4) inset,1px 0 rgba(255,255,255,0.1) inset,-1px 0 rgba(255,255,255,0.1) inset}body {visibility: hidden;}
+input[type="submit"]:active, input[type="submit"].active{background-color:#29B3DA; background-image:none}
+div#qTip{padding:4px; display:none; background:#59C6E3; font:10pt tahoma; text-align:center; position:absolute; z-index:999; border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px; filter:alpha(opacity=80); opacity:0.8; text-shadow:none; margin-top:10px; color:white}
+::selection{color:#59C6E3}
+::-moz-selection{color:#59C6E3}
+.headerright{background-position:-545px -371px; width:300px; float:right; height:177px}
+.headermiddle{background-position:-2px -390px; width:590px; height:151px; margin:0px 250px}
+a{color:#2BB4DA}
+a:hover{color:#F59300}
+a:visited{color:#2BB4DA}
+a:active{color:#2BB4DA}
+.hdh{background-position:-151px -69px; width:170px; height:32px}
+.fgf{background-position:0px -136px; width:870px; height:34px}
+.fgfg{background-position:0px -180px; width:870px; height:21px}
+.mod{background-position:0px -104px; width:51px; height:51px}
+.bsm{width:350px; height:108px; border:0px; background-position:0px -216px}
+.signa{border:0; width:418px; height:69px; background-position:-317px -238px}
+.onl{background-position:-50px -181px; width:100px; height:81px}
+.ftry{visibility: hidden;background-position:-321px -128px; width:193px; height:140px; position:relative; float:left}
+.last_post_img {border-top: 0px none;padding: 0px;background: transparent url("https://web.archive.org/web/20180204074352im_/http://i18.servimg.com/u/f18/19/08/82/48/last1010.png") no-repeat scroll;background-position: -48px 0px;}
+
+/*
+     FILE ARCHIVED ON 07:43:52 Feb 04, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:28:20 Mar 19, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 172.141
+  exclusion.robots: 0.108
+  exclusion.robots.policy: 0.096
+  cdx.remote: 0.074
+  esindex: 0.01
+  LoadShardBlock: 46.126 (3)
+  PetaboxLoader3.datanode: 57.669 (4)
+  load_resource: 48.013
+  PetaboxLoader3.resolve: 30.671
+*/
